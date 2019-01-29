@@ -8,7 +8,8 @@ import SideDrawer from '../Navigation/SideDrawer/SideDrawer'
 const layout = ( props ) => (
     <Aux>
         <Toolbar />
-        <SideDrawer />
+        {/* changing the css dynamically using props */}
+        <SideDrawer height='80%' />
         <div>
             Toolbar, SideDrawer, Backdrop
         </div>
