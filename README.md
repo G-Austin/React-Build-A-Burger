@@ -4,4 +4,4 @@ In this application I will build a React application that a user will build a bu
 I started by laying out the components I would need, the state requirements, and the general layout of the application. 
 
 
-![Landing Page](https://github.com/G-austin/React-Build-A-Burger/images/BurgerAppLandingPage.png "Landing Page")
+![Landing Page](https://github.com/G-Austin/React-Build-A-Burger/blob/master/images/BurgerAppLandingPage.png "Landing Page")
